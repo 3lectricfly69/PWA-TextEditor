@@ -3,7 +3,8 @@
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
-    "start": "webpack --watchAll"
+    "start": "webpack --watchAll",
+    "text-editor": "cd server && node server.js"
   },
   "author": "2U",
   "license": "UNLICENSED",
