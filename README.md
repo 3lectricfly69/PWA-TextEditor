@@ -4,3 +4,5 @@ This single page Progressive Web Application will render in the browser offline 
 
 How to operate program: 
 open terminal in project root, then run "npm run text-editor", open in browser at localhost:3000, go at it with this PWA-TextEditor !
+
+<video controls src="2024-02-17_00-52-02.mp4" title="Title"></video>
