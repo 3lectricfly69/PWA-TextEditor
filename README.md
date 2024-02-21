@@ -1,5 +1,5 @@
 # PWA-TextEditor
-This single page Progressive Web Application will render in the browser offline by storing data to an IndexedDB. PWA-TextEditor uses a package called idb [a lightweight wrapper around the IndexedDB API] which features a number of methods that are useful for storing and retrieving data.
+This single page Progressive Web Application CLI will render in the browser offline by storing data in an IndexedDB. PWA-TextEditor uses a package called idb [a lightweight wrapper around the IndexedDB API] which features a number of methods that are useful for storing and retrieving data.
 
 Deployed to Render @: [https://github.com/3lectricfly69/PWA-TextEditor](https://pwa-texteditor-vxd4.onrender.com/)
 
